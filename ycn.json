@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://def001.ycnapi.com/api",
+  "userAgent": "okhttp/4.12.0",
+  "headers": "Accept:application/json,Accept-Encoding:gzip"
+}
